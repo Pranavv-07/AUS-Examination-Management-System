@@ -1,0 +1,6 @@
+{
+  "name": "Aditya University Exam Management Portal",
+  "description": "Comprehensive Examination, Seating Arrangement, and Invigilation Management Portal for Aditya University",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

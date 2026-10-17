@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 220" width="100%" height="100%">
+  <!-- Exact official Aditya University Logo reproduction matching uploaded image.png -->
+  <!-- Left: Circular Planetary Orbit & Sunburst Emblem -->
+  <g transform="translate(10, 0)">
+    <!-- Outer Orbit Ring 1 -->
+    <ellipse cx="110" cy="110" rx="98" ry="98" fill="none" stroke="#004B87" stroke-width="4.5" />
+    <circle cx="110" cy="12" r="7.5" fill="#004B87" />
+    <circle cx="18" cy="140" r="5" fill="#004B87" />
+
+    <!-- Middle Orbit Ring 2 -->
+    <ellipse cx="110" cy="110" rx="82" ry="82" fill="none" stroke="#004B87" stroke-width="3" />
+    <circle cx="178" cy="80" r="4.5" fill="#004B87" />
+
+    <!-- Inner Orbit Ring 3 -->
+    <ellipse cx="110" cy="110" rx="66" ry="66" fill="none" stroke="#004B87" stroke-width="2.5" />
+
+    <!-- Five-point stars along orbits -->
+    <!-- Star 1 top right -->
+    <path d="M 160 32 L 161.5 36.5 L 166 36.5 L 162.5 39.5 L 164 44 L 160 41 L 156 44 L 157.5 39.5 L 154 36.5 L 158.5 36.5 Z" fill="#004B87" />
+    <!-- Star 2 near Star 1 -->
+    <path d="M 172 40 L 173 43 L 176 43 L 173.5 45 L 174.5 48 L 172 46 L 169.5 48 L 170.5 45 L 168 43 L 171 43 Z" fill="#004B87" />
+    <!-- Star 3 bottom left -->
+    <path d="M 46 155 L 47 158 L 50 158 L 47.5 160 L 48.5 163 L 46 161 L 43.5 163 L 44.5 160 L 42 158 L 45 158 Z" fill="#004B87" />
+    <!-- Star 4 outer left -->
+    <path d="M 17 114 L 18 117 L 21 117 L 18.5 119 L 19.5 122 L 17 120 L 14.5 122 L 15.5 119 L 13 117 L 16 117 Z" fill="#004B87" />
+    <!-- Star 5 outer right -->
+    <path d="M 203 120 L 204 123 L 207 123 L 204.5 125 L 205.5 128 L 203 126 L 200.5 128 L 201.5 125 L 199 123 L 202 123 Z" fill="#004B87" />
+    <!-- Star 6 top left -->
+    <path d="M 90 26 L 91 29 L 94 29 L 91.5 31 L 92.5 34 L 90 32 L 87.5 34 L 88.5 31 L 86 29 L 89 29 Z" fill="#004B87" />
+
+    <!-- Figures reaching upwards at base inside inner ring -->
+    <path d="M 78 170 C 82 152, 94 148, 104 162 C 107 152, 113 152, 116 162 C 126 148, 138 152, 142 170 C 130 182, 90 182, 78 170 Z" fill="#004B87" />
+    <circle cx="92" cy="150" r="4" fill="#004B87" />
+    <circle cx="110" cy="144" r="4.5" fill="#004B87" />
+    <circle cx="128" cy="150" r="4" fill="#004B87" />
+
+    <!-- Sunburst in Center (Orange #F37023) -->
+    <g transform="translate(110, 105)">
+      <!-- Radiant Curved Sun Rays -->
+      <path d="M 0 -36 C 4 -30, 8 -24, 0 -18 C -8 -24, -4 -30, 0 -36 Z" fill="#F37023" />
+      <path d="M 25 -25 C 26 -17, 21 -13, 14 -12 C 14 -20, 20 -23, 25 -25 Z" fill="#F37023" />
+      <path d="M 36 0 C 30 4, 24 8, 18 0 C 24 -8, 30 -4, 36 0 Z" fill="#F37023" />
+      <path d="M 25 25 C 17 26, 13 21, 12 14 C 20 14, 23 20, 25 25 Z" fill="#F37023" />
+      <path d="M 0 36 C -4 30, -8 24, 0 18 C 8 24, 4 30, 0 36 Z" fill="#F37023" />
+      <path d="M -25 25 C -26 17, -21 13, -14 12 C -14 20, -20 23, -25 25 Z" fill="#F37023" />
+      <path d="M -36 0 C -30 -4, -24 -8, -18 0 C -24 8, -30 4, -36 0 Z" fill="#F37023" />
+      <path d="M -25 -25 C -17 -26, -13 -21, -12 -14 C -20 -14, -23 -20, -25 -25 Z" fill="#F37023" />
+
+      <!-- Intermediate wavy rays -->
+      <path d="M 14 -33 C 12 -25, 6 -20, 7 -14 C 1 -18, 5 -27, 14 -33 Z" fill="#F37023" />
+      <path d="M 33 -14 C 25 -12, 20 -6, 14 -7 C 18 -1, 27 -5, 33 -14 Z" fill="#F37023" />
+      <path d="M 33 14 C 25 12, 20 6, 14 7 C 18 1, 27 5, 33 14 Z" fill="#F37023" />
+      <path d="M 14 33 C 12 25, 6 20, 7 14 C 1 18, 5 27, 14 33 Z" fill="#F37023" />
+      <path d="M -14 33 C -12 25, -6 20, -7 14 C -1 18, -5 27, -14 33 Z" fill="#F37023" />
+      <path d="M -33 14 C -25 12, -20 6, -14 7 C -18 1, -27 5, -33 14 Z" fill="#F37023" />
+      <path d="M -33 -14 C -25 -12, -20 -6, -14 -7 C -18 -1, -27 -5, -33 -14 Z" fill="#F37023" />
+      <path d="M -14 -33 C -12 -25, -6 -20, -7 -14 C -1 -18, -5 -27, -14 -33 Z" fill="#F37023" />
+
+      <!-- Center White Disc -->
+      <circle cx="0" cy="0" r="14" fill="#FFFFFF" />
+
+      <!-- Blue Stylized Chevron / 'A' in Center -->
+      <path d="M 0 -8 L 7 5 L 4 5 L 2 1 L -2 1 L -4 5 L -7 5 Z" fill="#004B87" />
+      <polygon points="0,-4 1.5,0 -1.5,0" fill="#FFFFFF" />
+    </g>
+  </g>
+
+  <!-- Right: Official Typography -->
+  <!-- "ADITYA" in Orange (#F37023) -->
+  <text x="240" y="100" font-family="'Plus Jakarta Sans', 'Segoe UI', Arial, sans-serif" font-size="78" font-weight="900" fill="#F37023" letter-spacing="2">ADITYA</text>
+
+  <!-- "UNIVERSITY" in Blue (#004B87) -->
+  <text x="242" y="166" font-family="'Plus Jakarta Sans', 'Segoe UI', Arial, sans-serif" font-size="52" font-weight="900" fill="#004B87" letter-spacing="3.5">UNIVERSITY</text>
+</svg>
